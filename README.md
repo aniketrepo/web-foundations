@@ -8,5 +8,5 @@
 - [HTML Colours](https://github.com/aniketrepo/web-foundations/blob/main/code/html/Colors.html)
 - HTML CSS
 	- [Inline CSS](https://github.com/aniketrepo/web-foundations/blob/main/code/html/InlineCSS.html)
-	- [Internal CSS]()
+	- [Internal CSS](https://github.com/aniketrepo/web-foundations/blob/main/code/html/InternalCSS.html)
 	- [External CSS]()
